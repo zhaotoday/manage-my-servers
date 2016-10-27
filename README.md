@@ -27,3 +27,8 @@ https://www.alpharacks.com/myrack/clientarea.php
 
 ## hawkhost
 https://my.hawkhost.com/clientarea.php
+
+## cloudatcost
+https://members.cloudatcost.com/index.php?fuse=home&view=Login  
+https://panel.cloudatcost.com/login.php
+可以重置密码
