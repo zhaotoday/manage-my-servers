@@ -15,3 +15,6 @@ https://billing.chicagovps.net/clientarea.php
 https://clientarea.ramnode.com/clientarea.php  
 https://vpscp.ramnode.com/login.php  
 RNuser7932
+
+## bandwagon
+https://bwh1.net/clientarea.php  
