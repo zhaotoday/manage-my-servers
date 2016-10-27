@@ -26,3 +26,4 @@ https://xvmlabs.com/account/clientarea.php
 https://www.alpharacks.com/myrack/clientarea.php
 
 ## hawkhost
+https://my.hawkhost.com/clientarea.php
