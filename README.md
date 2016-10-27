@@ -21,3 +21,8 @@ https://bwh1.net/clientarea.php
 
 ## xvmlabs
 https://xvmlabs.com/account/clientarea.php
+
+## alpharacks
+https://www.alpharacks.com/myrack/clientarea.php
+
+## hawkhost
