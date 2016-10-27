@@ -9,3 +9,9 @@ https://solus.hostigation.com:5656/login.php
 vmuser8095
 
 ## chicagovps
+https://billing.chicagovps.net/clientarea.php  
+
+## ramnode
+https://clientarea.ramnode.com/clientarea.php  
+https://vpscp.ramnode.com/login.php  
+RNuser7932
